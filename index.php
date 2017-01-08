@@ -13,6 +13,11 @@
 		<li><a href="./pages/page06.php">Оператори за сравнение(===)</a></li>
 		<li><a href="./pages/page07.php">Условно изпълнение:if</a></li>
 		<li><a href="./pages/page07-1.php">Условно изпълнение:if</a></li>
+		<li><a href="./pages/page08.php">Циклично изпълнение 1</a></li>
+		<li><a href="./pages/page09.php">Циклично изпълнение 2</a></li>
+		<li><a href="./pages/page10.php">Индексни масиви</a></li>
+		<li><a href="./pages/page11.php">Цикъл foreach()</a></li>
+		<li><a href="./pages/page12.php">Цикъл for</a></li>
 	</ul>
 </body>
 </html>
