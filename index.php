@@ -18,6 +18,14 @@
 		<li><a href="./pages/page10.php">Индексни масиви</a></li>
 		<li><a href="./pages/page11.php">Цикъл foreach()</a></li>
 		<li><a href="./pages/page12.php">Цикъл for</a></li>
+		<li><a href="./pages/page13.php">Декларация на функции</a></li>
+		<li><a href="./pages/page14.php">Функции: параметри по подразбиране</a></li>
+		<li><a href="./pages/page15.php">Функции: глобални промеливи</a></li>
+		<li><a href="./pages/page16.php">Функции: статични данни</a></li>
+		<li><a href="./pages/page17.php">Функции: return</a></li>
+		<li><a href="./pages/page18.php">include/require</a></li>
+		<li><a href="./pages/page19.php">Дата/час</a></li>
+		<li><a href="./pages/page20.php">Пример:Дата/час</a></li>
 	</ul>
 </body>
 </html>
